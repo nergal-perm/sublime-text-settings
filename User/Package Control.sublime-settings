@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"HTML2Text",
+		"Markdown HTML Preview",
+		"Package Control",
+		"sublime_zk",
+		"WordCount"
+	],
+	"repositories":
+	[
+		"https://github.com/renerocksai/sublime_zk"
+	]
+}

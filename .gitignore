@@ -3,5 +3,8 @@
 
 # ... except preferences
 !.gitignore
+
+# .. in subdirectories
+!*/
 !Preferences.sublime-settings
 !Package Control.sublime-settings
