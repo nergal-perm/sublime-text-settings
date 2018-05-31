@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Git",
 		"HTML2Text",
 		"Markdown HTML Preview",
 		"Package Control",
