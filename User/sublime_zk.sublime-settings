@@ -10,4 +10,5 @@
 	"font_face": "Monoid",
 	"font_size":9,
     "word_wrap": 80,
+    "translate_tabs_to_spaces": true,
 }
