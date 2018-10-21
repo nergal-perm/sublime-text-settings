@@ -5,9 +5,10 @@
 	],
 	"line_padding_bottom": 3,
 	"line_padding_top": 3,
-	"id_in_title": true,
+	"id_in_title": false,
 	"insert_links_with_titles": true,
 	"font_face": "Monoid",
 	"font_size":9,
     "word_wrap": 80,
+    "translate_tabs_to_spaces": true,
 }
