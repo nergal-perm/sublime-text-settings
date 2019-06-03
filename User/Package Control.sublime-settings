@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"Git",
 		"HTML2Text",
 		"Markdown HTML Preview",
