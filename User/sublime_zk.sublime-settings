@@ -3,12 +3,12 @@
 	[
 		"md"
 	],
-	"line_padding_bottom": 3,
-	"line_padding_top": 3,
+	"font_face": "Monoid",
+	"font_size": 9,
 	"id_in_title": true,
 	"insert_links_with_titles": false,
-	"font_face": "Monoid",
-	"font_size":9,
-    "word_wrap": 120,
-    "translate_tabs_to_spaces": true,
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"translate_tabs_to_spaces": true,
+	"word_wrap": 120
 }
