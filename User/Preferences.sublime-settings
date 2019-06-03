@@ -9,5 +9,9 @@
 	[
 		80
 	],
+	"rulers":
+	[
+		80
+	],
 	"theme": "Adaptive.sublime-theme"
 }
